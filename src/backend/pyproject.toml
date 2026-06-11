@@ -1,0 +1,13 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "deepagents>=0.6.8",
+    "fastmcp>=2.0.0",
+    "langchain-litellm>=0.6.6",
+    "langchain-mcp-adapters>=0.3.0",
+    "litellm>=1.88.1",
+]
